@@ -1176,16 +1176,10 @@
     .sidebar-order-summary {
         margin-top: 60px;
     }
-
-
-
-
-
-
-
-
-
-
+    .team_details_left{
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
 
 }
 
@@ -2787,7 +2781,10 @@
     .wishlist-page {
         padding: 80px 0px 80px;
     }
-
+    .team_details_left{
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
 
 
 
@@ -3024,6 +3021,10 @@
 
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .team_details_left{
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
     .banner-one__left {
         max-width: 600px;
         margin: 0 auto 0;
