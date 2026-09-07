@@ -1050,9 +1050,14 @@
 .services-carousel-page .services-three__single {
     margin-bottom: 0;
 }
+.services-one__btn-box .thm-btn{
+    background-color: #f9020d;
+    color: #fff;
+}
 
-
-
+.services-one__read-more{
+    color: #f9020d;
+}
 
 
 

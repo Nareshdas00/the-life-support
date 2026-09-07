@@ -65,7 +65,8 @@
     height: 60px;
     width: 60px;
     border-radius: 50%;
-    color: var(--careon-base);
+    color: #f9020d;
+    /* var(--careon-base) */
     font-size: 24px;
     border: 1px solid var(--careon-black);
     -webkit-transition: all 500ms ease;
