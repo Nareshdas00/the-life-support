@@ -21,7 +21,7 @@
   --careon-font: "Roboto", serif;
   --careon-gray: #4A5B80;
   --careon-gray-rgb: 74, 91, 128;
-  --careon-base: #f9020d;
+  --careon-base: #006D77;
   /* 006D77 */
   --careon-base-rgb: 0, 109, 119;
   --careon-primary: #BEE1E6;
@@ -2392,9 +2392,9 @@ ul {
 }
 
 
-.main-menu__thm-btn .thm-btn{
+/* .main-menu__thm-btn .thm-btn{
   background-color: #f9020d;
-}
+} */
 .main-menu__thm-btn .thm-btn::after{
   background-color: #006D77;
 }
